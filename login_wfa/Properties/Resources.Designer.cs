@@ -63,6 +63,16 @@ namespace login_wfa.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _7s6exc49 {
+            get {
+                object obj = ResourceManager.GetObject("7s6exc49", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap bizequals_marketplaces_graphic {
             get {
                 object obj = ResourceManager.GetObject("bizequals-marketplaces-graphic", resourceCulture);
@@ -86,6 +96,16 @@ namespace login_wfa.Properties {
         internal static System.Drawing.Bitmap soft_01_500x434 {
             get {
                 object obj = ResourceManager.GetObject("soft-01-500x434", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Web_Development2_700_min {
+            get {
+                object obj = ResourceManager.GetObject("Web-Development2-700-min", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

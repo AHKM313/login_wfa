@@ -118,13 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="bizequals-marketplaces-graphic" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bizequals-marketplaces-graphic.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="HD-wallpaper-technology-artistic-blue-lock" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\HD-wallpaper-technology-artistic-blue-lock.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="soft-01-500x434" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\soft-01-500x434.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bizequals-marketplaces-graphic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bizequals-marketplaces-graphic.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Web-Development2-700-min" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Web-Development2-700-min.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="7s6exc49" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7s6exc49.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
