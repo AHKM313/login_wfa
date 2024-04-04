@@ -37,5 +37,15 @@ namespace login_wfa
         {
 
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void kryptonButton1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
