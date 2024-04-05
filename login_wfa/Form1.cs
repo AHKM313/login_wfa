@@ -3,8 +3,10 @@ using System.Drawing;
 using ComponentFactory.Krypton.Toolkit;
 using System.Data;
 using System.Data.SqlClient;
-
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.Rebar;
+using System.Runtime.Remoting.Contexts;
+using System.Xml.Linq;
 
 
 namespace login_wfa
@@ -12,6 +14,15 @@ namespace login_wfa
 
     public partial class Form1 : KryptonForm
     {
+        // Define the database file name
+        private const string DatabaseFileName = "Database1.mdf";
+
+        private string GetConnectionString()
+        {
+            string dataDirectory = AppDomain.CurrentDomain.BaseDirectory;
+            string dbPath = System.IO.Path.Combine(dataDirectory, DatabaseFileName);
+            return $"Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename={dbPath};Integrated Security=True;";
+        }
 
         public Form1()
         {
@@ -69,11 +80,10 @@ namespace login_wfa
             }
 
 
-
             try
             {
-
-                using (SqlConnection con = new SqlConnection("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\mbani\\OneDrive\\Documents\\db.mdf;Integrated Security=True;Connect Timeout=30"))
+                string str_con = GetConnectionString();
+                using (SqlConnection con = new SqlConnection(str_con))
                 {
                     con.Open();
 
