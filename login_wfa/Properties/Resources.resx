@@ -118,19 +118,52 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="HD-wallpaper-technology-artistic-blue-lock" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\HD-wallpaper-technology-artistic-blue-lock.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="vyvg4pgd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vyvg4pgd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="703ml3qa1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\703ml3qa.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="soft-01-500x434" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\soft-01-500x434.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="rs7fpfkd1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rs7fpfkd1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="7s6exc49" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7s6exc49.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="703ml3qa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\703ml3qa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fdxdhkql" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fdxdhkql.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HD-wallpaper-technology-artistic-blue-lock" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HD-wallpaper-technology-artistic-blue-lock.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="703ml3qa2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\703ml3qa1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="j9bryg1l" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\j9bryg1l.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="bizequals-marketplaces-graphic" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\bizequals-marketplaces-graphic.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rs7fpfkd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rs7fpfkd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jlv15n4i" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jlv15n4i.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jlv15n4i1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jlv15n4i1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Web-Development2-700-min" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Web-Development2-700-min.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="7s6exc49" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\7s6exc49.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="vyvg4pgd1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vyvg4pgd1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
