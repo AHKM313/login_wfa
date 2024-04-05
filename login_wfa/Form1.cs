@@ -59,29 +59,13 @@ namespace login_wfa
             string username = username_input.Text;
             string password = password_input.Text;
 
-
-            //SqlConnection con = new SqlConnection("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\mbani\\OneDrive\\Documents\\db.mdf;Integrated Security=True;Connect Timeout=30;");
-
-            //SqlDataAdapter sda = new SqlDataAdapter("Select Count(*) from ss_Table where username ='" + username_input.Text + "'and password ='" + password_input.Text + "'", con);
-
-            //DataTable dt = new DataTable();
-
-            //sda.Fill(dt);
-
-            //if (dt.Rows[0][0].ToString() == "1")
-            //{
-            //    MessageBox.Show("Login was successful");
-            //}
-            //else
-            //{
-            //    MessageBox.Show("Login was unsuccessful");
-            //}
-
-
-            if (string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(password))
+            if (string.IsNullOrWhiteSpace(username))
             {
-                MessageBox.Show("Please enter both username and password.");
-                return;
+                username_input.StateCommon.Border.Color1 = Color.Red;
+            }
+            if ( string.IsNullOrWhiteSpace(password))
+            {
+                password_input.StateCommon.Border.Color1 = Color.Red;
             }
 
 
@@ -93,7 +77,6 @@ namespace login_wfa
                 {
                     con.Open();
 
-                    // Create a parameterized query
                     string query = "SELECT COUNT(*) FROM accounts_tb WHERE username = @Username AND password = @Password";
                     using (SqlCommand command = new SqlCommand(query, con))
                     {
